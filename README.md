@@ -1,1 +1,1 @@
-print("sexgay")
+ảo ma la zalo
